@@ -20,19 +20,19 @@ msgstr ""
 
 #: learnpress.php:352
 msgid "Learning Management System"
-msgstr "Learning Management System"
+msgstr "Learning Management Systeem"
 
 #: learnpress.php:353 learnpress.php:373
 msgid "LearnPress"
-msgstr ""
+msgstr "LearnPress"
 
 #: learnpress.php:364 learnpress.php:365
 msgid "Statistics"
-msgstr ""
+msgstr "Statistieken"
 
 #: learnpress.php:372
 msgid "LearnPress Settings"
-msgstr ""
+msgstr "LearnPress instellingen"
 
 #: learnpress.php:380 learnpress.php:381
 msgid "Add-ons"
@@ -41,35 +41,35 @@ msgstr "Add-ons"
 #: learnpress.php:405
 msgctxt "User role"
 msgid "Instructor"
-msgstr ""
+msgstr "Instructeur"
 
 #: inc/class.lpr-ajax.php:177
 msgid "Sorry! You can not retake this quiz"
-msgstr ""
+msgstr "Sorry! Je kunt deze quiz niet opnieuw doen"
 
 #: inc/class.lpr-ajax.php:335 inc/class.lpr-ajax.php:377
 msgid "Access denied!"
-msgstr ""
+msgstr "Toegang geweigerd!"
 
 #: inc/class.lpr-ajax.php:404
 msgid "Congratulation ! You have finished this course"
-msgstr ""
+msgstr "Gefeliciteerd! Je hebt de cursus succesvol vervolledigt!"
 
 #: inc/class.lpr-ajax.php:407
 msgid "Sorry! You can not finish this course now"
-msgstr ""
+msgstr "Sorry! Je kunt deze cursus nu niet voortzetten"
 
 #: inc/class.lpr-ajax.php:457 inc/class.lpr-ajax.php:463
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: inc/class.lpr-multi-language.php:40 lib/meta-box/inc/common.php:48
 msgid "Documentation"
-msgstr ""
+msgstr "Documentatie"
 
 #: inc/class.lpr-multi-language.php:41 lib/meta-box/inc/common.php:49
 msgid "Extensions"
-msgstr ""
+msgstr "Extensies"
 
 #: inc/class.lpr-question-type.php:119 inc/admin/meta-boxes/fields/class.course-lesson-quiz.php:147 inc/admin/meta-boxes/fields/class.course-lesson-quiz.php:237 templates/archive-course-content.php:25 templates/course_content.php:27
 msgid "Edit"
@@ -77,11 +77,11 @@ msgstr "Bewerken"
 
 #: inc/class.lpr-question-type.php:120 inc/admin/meta-boxes/fields/class.course-lesson-quiz.php:114 inc/admin/meta-boxes/fields/class.course-lesson-quiz.php:146 inc/admin/meta-boxes/fields/class.course-lesson-quiz.php:169 inc/admin/meta-boxes/fields/class.course-lesson-quiz.php:212 inc/admin/meta-boxes/fields/class.course-lesson-quiz.php:237 lib/meta-box/inc/fields/file-input.php:38
 msgid "Remove"
-msgstr ""
+msgstr "Verwijderen"
 
 #: inc/class.lpr-question-type.php:121
 msgid "Expand"
-msgstr ""
+msgstr "Uitbreiden"
 
 #: inc/class.lpr-question-type.php:122
 msgid "Collapse"
@@ -89,7 +89,7 @@ msgstr "Wegklappen"
 
 #: inc/class.lpr-question-type.php:138
 msgid "Answer"
-msgstr ""
+msgstr "Beantwoorden"
 
 #: inc/class.lpr-question-type.php:170 inc/class.lpr-question-type.php:181
 #, php-format
@@ -98,83 +98,83 @@ msgstr ""
 
 #: inc/class.lpr-question-type.php:570
 msgid "Answer explanation"
-msgstr ""
+msgstr "Uitleg van het antwoord"
 
 #: inc/class.lpr-shortcodes.php:47
 msgid "You are a teacher now"
-msgstr ""
+msgstr "Je bent nu een leerkracht"
 
 #: inc/class.lpr-shortcodes.php:51
 msgid "Please login to fill out this form"
-msgstr ""
+msgstr "Gelieve in te loggen om dit formulier in te vullen"
 
 #: inc/class.lpr-shortcodes.php:55
 msgid "Your request has been sent! We will get in touch with you soon!"
-msgstr ""
+msgstr "Je verzoek werd ontvangen! We nemen zo snel mogelijk contact met je op!"
 
 #: inc/class.lpr-shortcodes.php:62 inc/admin/settings/class.lpr-settings-pages.php:103
 msgid "Become a Teacher"
-msgstr ""
+msgstr "Word leerkracht"
 
 #: inc/class.lpr-shortcodes.php:63
 msgid "Fill out your information and send to us to become a teacher"
-msgstr ""
+msgstr "Geef je gegevens in en stuur het ons om een leerkracht te worden"
 
 #: inc/class.lpr-shortcodes.php:64
 msgid "Submit"
-msgstr ""
+msgstr "Verzenden"
 
 #: inc/class.lpr-shortcodes.php:70
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 #: inc/class.lpr-shortcodes.php:72
 msgid "Your name"
-msgstr ""
+msgstr "Jouw naam"
 
 #: inc/class.lpr-shortcodes.php:76
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: inc/class.lpr-shortcodes.php:78
 msgid "Your email address"
-msgstr ""
+msgstr "Jouw emailadress"
 
 #: inc/class.lpr-shortcodes.php:82
 msgid "Phone"
-msgstr ""
+msgstr "Gsm"
 
 #: inc/class.lpr-shortcodes.php:84
 msgid "Your phone number"
-msgstr ""
+msgstr "Jouw telefoonnummer"
 
 #: inc/class.lpr-shortcodes.php:151 inc/shortcodes/profile-page.php:21
 msgid "This user in not available!"
-msgstr ""
+msgstr "Deze gebruiker is niet beschikbaar!"
 
 #: inc/lpr-add-on-functions.php:18 inc/lpr-core-functions.php:356
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #: inc/lpr-add-on-functions.php:31 inc/lpr-add-on-functions.php:639 inc/lpr-add-on-functions.php:665 inc/admin/class-lpr-plugin-install-list-table.php:417
 msgid "Enabled"
-msgstr "Inschakelen"
+msgstr "Ingeschakeld"
 
 #: inc/lpr-add-on-functions.php:42 inc/lpr-add-on-functions.php:639 inc/lpr-add-on-functions.php:665 inc/admin/class-lpr-plugin-install-list-table.php:419
 msgid "Disabled"
-msgstr ""
+msgstr "Uitgeschakeld"
 
 #: inc/lpr-add-on-functions.php:53
 msgid "Get More"
-msgstr ""
+msgstr "Krijg meer"
 
 #: inc/lpr-add-on-functions.php:81
 msgid "All LearnPress Add-ons require a slug parameter."
-msgstr ""
+msgstr "Alle LearnPress Add-ons vereisen een slug parameter nodig."
 
 #: inc/lpr-add-on-functions.php:84
 msgid "All LearnPress Add-ons require a name parameter."
-msgstr "Alle LearnPress Add-ons vereisen een naam parameterâ"
+msgstr "Alle LearnPress Add-ons vereisen een naam parameter."
 
 #: inc/lpr-add-on-functions.php:87
 msgid "All LearnPress Add-ons require a file parameter."
@@ -182,7 +182,7 @@ msgstr "Alle LearnPress Add-ons vereisen een bestand parameter"
 
 #: inc/lpr-add-on-functions.php:367
 msgid "bbPress Integration"
-msgstr ""
+msgstr "bbPress integratie"
 
 #: inc/lpr-add-on-functions.php:368
 #, php-format
@@ -200,15 +200,15 @@ msgstr ""
 
 #: inc/lpr-add-on-functions.php:387
 msgid "Certificate"
-msgstr ""
+msgstr "Certificaat"
 
 #: inc/lpr-add-on-functions.php:388
 msgid "Allow create a certificate for student after they finish a course"
-msgstr ""
+msgstr "Geef de student de toestemming een certificaat te creeren na het vervolledigen van een cursus. "
 
 #: inc/lpr-add-on-functions.php:398
 msgid "Courses Collection"
-msgstr ""
+msgstr "Cursus collectie"
 
 #: inc/lpr-add-on-functions.php:399
 msgid "Collecting related courses into one collection by administrator"
@@ -216,23 +216,23 @@ msgstr ""
 
 #: inc/lpr-add-on-functions.php:409
 msgid "Course Review"
-msgstr ""
+msgstr "Cursus review"
 
 #: inc/lpr-add-on-functions.php:410
 msgid "Adding review for course "
-msgstr ""
+msgstr "Review toevoegen aan cursus"
 
 #: inc/lpr-add-on-functions.php:419
 msgid "Export/Import"
-msgstr ""
+msgstr "Exporteren/Importeren"
 
 #: inc/lpr-add-on-functions.php:420
 msgid "Export and Import your courses with all lesson and quiz in easiest way"
-msgstr ""
+msgstr "Exporteer en importeer je cursussen met alle lessen en de quiz op de makkelijkste manier"
 
 #: inc/lpr-add-on-functions.php:429
 msgid "Prerequisite Courses"
-msgstr ""
+msgstr "Cursusvoorwaarden"
 
 #: inc/lpr-add-on-functions.php:430
 msgid "Adding prerequisite course when add new a course "
@@ -306,7 +306,7 @@ msgstr ""
 
 #: inc/lpr-core-functions.php:312
 msgid "Sorry! You don't have permission to do this action"
-msgstr ""
+msgstr "Sorry! Je hebt geen toestemming om deze actie te doen"
 
 #: inc/lpr-core-functions.php:357
 msgid "Published"
@@ -351,7 +351,7 @@ msgstr ""
 #: inc/lpr-core-functions.php:715
 #, php-format
 msgid "<strong>LearnPress is almost ready</strong>. <a class=\"lpr-set-up\" href=\"%s\">Setting up</a> something right now is a good idea. That's better than you <a class=\"lpr-ignore lpr-set-up\">ignore</a> the message."
-msgstr "<strong>LearnPress is almost ready</strong>. <a class=\"lpr-set-up\" href=\"%s\">Setting up</a> something right now is a good idea. That's better than you <a class=\"lpr-ignore lpr-set-up\">ignore</a> the message."
+msgstr "<strong>LearnPress is bijna klaar</strong>. <a class=\"lpr-set-up\" href=\"%s\">Setting up</a> something right now is a good idea. That's better than you <a class=\"lpr-ignore lpr-set-up\">ignore</a> the message."
 
 #: inc/lpr-core-functions.php:728
 #, php-format
@@ -400,11 +400,11 @@ msgstr ""
 
 #: inc/lpr-core-functions.php:1598
 msgid "Please enter your name"
-msgstr ""
+msgstr "Geef je naam in"
 
 #: inc/lpr-core-functions.php:1602
 msgid "Please enter your email address"
-msgstr ""
+msgstr "Geef je emailadress in"
 
 #: inc/lpr-core-functions.php:1614
 #, php-format
@@ -414,22 +414,22 @@ msgstr ""
 #: inc/lpr-core-functions.php:1616
 #, php-format
 msgid "Name: %s"
-msgstr ""
+msgstr "Naam"
 
 #: inc/lpr-core-functions.php:1617
 #, php-format
 msgid "Email: %s"
-msgstr ""
+msgstr "Email"
 
 #: inc/lpr-core-functions.php:1618
 #, php-format
 msgid "Phone: %s"
-msgstr ""
+msgstr "Telefoon"
 
 #: inc/lpr-core-functions.php:1619
 #, php-format
 msgid "Accept: %s"
-msgstr ""
+msgstr "Accepteer"
 
 #: inc/lpr-course-functions.php:273 inc/lpr-course-functions.php:284
 msgid "You have not permission to view this page"
@@ -437,7 +437,7 @@ msgstr ""
 
 #: inc/lpr-course-functions.php:1065
 msgid "Congratulations! You have enrolled this course"
-msgstr ""
+msgstr "Gefeliciteerd je hebt deelgenomen aan deze cursus! "
 
 #: inc/lpr-course-functions.php:1085
 msgid "Invalid payment method."
@@ -445,23 +445,23 @@ msgstr ""
 
 #: inc/lpr-course-functions.php:1090
 msgid "Sorry! You can not enroll to this course"
-msgstr ""
+msgstr "Sorry! Je kunt niet deelnemen aan deze cursus"
 
 #: inc/lpr-course-functions.php:2099
 msgid "Be sure you want to retake this course! All your data will be deleted."
-msgstr ""
+msgstr "Ben je zeker dat je deze cursus opnieuw wil doen? Je verliest alle data! "
 
 #: inc/lpr-course-functions.php:2100
 msgid "Be sure you want to retake this quiz! All your data will be deleted."
-msgstr ""
+msgstr "Ben je zeker dat je deze cursus opnieuw wil doen? Je verliest alle data!"
 
 #: inc/lpr-course-functions.php:2101
 msgid "Are you sure you want to finish this quiz?"
-msgstr ""
+msgstr "Ben je zeker dat je deze quiz wilt voltooien?"
 
 #: inc/lpr-deprecated-functions.php:9
 msgid "Payment"
-msgstr ""
+msgstr "Betaling"
 
 #: inc/lpr-js-template.php:7 inc/admin/meta-boxes/fields/class.course-lesson-quiz.php:256
 msgid "--Select a Lesson--"
@@ -469,7 +469,7 @@ msgstr "—Selecteer een les—"
 
 #: inc/lpr-quiz-functions.php:72
 msgid "You have not saved answer for this question yet"
-msgstr ""
+msgstr "Je hebt nog geen antwoord opgeslagen voor deze vraag"
 
 #: inc/lpr-quiz-functions.php:136
 msgid "Security check failed !"
@@ -477,11 +477,11 @@ msgstr ""
 
 #: inc/lpr-quiz-functions.php:147
 msgid "Assignment can not be re-started"
-msgstr ""
+msgstr "Toets kan niet opnieuw genomen worden"
 
 #: inc/lpr-quiz-functions.php:158
 msgid "TIME EXPIRED, PLEASE SUBMIT THE ASSIGNMENT"
-msgstr ""
+msgstr "Tijd is om! Gelieve op te slaan!"
 
 #: inc/lpr-quiz-functions.php:166
 msgid "Assignment "
@@ -517,7 +517,7 @@ msgstr "vorige submissions verwijderd! Opnieuw laden van pagina…"
 
 #: inc/lpr-quiz-functions.php:276
 msgid "Unable to remove previous submissions"
-msgstr "Unable to remove previous submissions"
+msgstr "Het is niet mogelijk om de vorige ingaves te verwijderen"
 
 #: inc/lpr-quiz-functions.php:399 inc/lpr-quiz-functions.php:408
 msgid "Next Question"
@@ -1521,7 +1521,7 @@ msgstr "Cursus overdoen"
 
 #: inc/custom-post-types/course.php:204
 msgid "How many times the user can re-take this course. Set to 0 to disable"
-msgstr "Hoeveel keer de gebruiker de cursus kan overdoen. 0 kan niet worden ingevoerd"
+msgstr "Hoeveel keer de gebruiker de cursus kan overdoen. Geef 0 in om uit te schakelen"
 
 #: inc/custom-post-types/course.php:219
 msgid "Course Assessment Settings"
@@ -2077,7 +2077,7 @@ msgstr "Adres vinden"
 
 #: lib/meta-box/inc/fields/oembed.php:49
 msgid "Embed HTML not available."
-msgstr "Emed HTML niet beschikbaar"
+msgstr "Embed HTML niet beschikbaar"
 
 #: lib/meta-box/inc/fields/oembed.php:70
 msgid "Preview"
@@ -2196,7 +2196,7 @@ msgstr "Mijn account"
 
 #: templates/order/confirm.php:23 templates/order/confirm.php:58
 msgid "Thank you. Your order has been received."
-msgstr "Bedankt. Uw order is aangekomen"
+msgstr "Bedankt. Uw bestelling is ontvangen"
 
 #: templates/order/confirm.php:27
 msgid "Order Number:"
